@@ -1,7 +1,4 @@
-panorama
+Panorama
 ========
 
-A fresnel rendering engine
-
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/Ema93sh/panorama/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
-
+A Rendering engine based on fresnel vocabulary.  http://www.w3.org/2005/04/fresnel-info/manual/
